@@ -1,0 +1,18 @@
+// Navigation Menu
+body,
+html {
+  height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.navbar-custom {
+  background: $background-color;
+  color: $primary-color;
+}

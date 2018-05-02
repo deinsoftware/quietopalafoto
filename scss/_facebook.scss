@@ -1,0 +1,48 @@
+$facebook-color: #3a589e;
+
+// Facebook
+.facebook {
+  background-color: $facebook-color;
+  color: $primary-color;
+}
+
+.item-image {
+  overflow: hidden;
+  padding-bottom: 50%; // here the desired aspect ratio
+  position: relative;
+
+  img {
+    bottom: 0;
+    height: auto;
+    left: 0;
+    margin: auto;
+    max-width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+
+.item-content {
+  background: transparent;
+  padding-top: 15px;
+}
+
+.item-text {
+  display: inline-block;
+  height: 40px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.image-full {
+  @include background-size(cover);
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-top: 6%;
+  padding-top: 60%;
+  width: 100%;
+}
+
+
+

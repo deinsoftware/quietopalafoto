@@ -1,0 +1,15 @@
+// Extra Small devices (tablets, 768px and up)
+@media (max-width: 767px) {
+  // Google Maps
+  .embebed-map {
+    min-height: 360px;
+  }
+
+  .embebed-map-item {
+    min-height: 360px;
+  }
+
+  .intro-section {
+    padding-top: 20px;
+  }
+}

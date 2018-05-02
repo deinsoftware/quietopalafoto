@@ -1,0 +1,103 @@
+.page-header {
+  border-bottom: transparent; }
+
+.jumbotron {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 5px; }
+
+.btn-group span .badge {
+  font-size: .8em; }
+
+body,
+html {
+  height: 100%; }
+
+body {
+  padding-top: 50px; }
+
+.hide {
+  visibility: hidden; }
+
+.navbar-custom {
+  background: #333;
+  color: #fff; }
+
+.navbar-brand {
+  align-items: center;
+  display: flex;
+  padding: 0;
+  white-space: nowrap; }
+  .navbar-brand > img {
+    height: 100%;
+    padding: 7px 14px;
+    width: auto; }
+
+@media (max-width: 767px) {
+  .embebed-map {
+    min-height: 360px; }
+  .embebed-map-item {
+    min-height: 360px; }
+  .intro-section {
+    padding-top: 20px; } }
+
+.facebook {
+  background-color: #3a589e;
+  color: #fff; }
+
+.item-image {
+  overflow: hidden;
+  padding-bottom: 50%;
+  position: relative; }
+  .item-image img {
+    bottom: 0;
+    height: auto;
+    left: 0;
+    margin: auto;
+    max-width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0; }
+
+.item-content {
+  background: transparent;
+  padding-top: 15px; }
+
+.item-text {
+  display: inline-block;
+  height: 40px;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.image-full {
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-top: 6%;
+  padding-top: 60%;
+  width: 100%; }
+
+.youtube {
+  background-color: #cd201f;
+  color: #fff; }
+
+.twitter {
+  background-color: #0084b4;
+  color: #fff; }
+
+.twitter-timeline {
+  max-width: 100%;
+  width: 100%; }
+  .twitter-timeline > footer {
+    display: none; }
+
+body > footer {
+  background-color: #333;
+  box-shadow: 0 500px 0 500px #333;
+  color: #fff;
+  font-size: small;
+  margin: 30px 0 0;
+  padding: 20px 10px 12px; }

@@ -337,6 +337,67 @@
                         ]
                     }
                 }
+            },
+            {
+                "date": {
+                    "start": "2019-03-18T00:00:00.000Z",
+                    "end": "2019-03-20T00:00:00.000Z"
+                },
+                "level": 3,
+                "type": {
+                    "vehicle": {
+                        "class": {
+                            "truck": {
+                                "model": {
+                                    "2009": [
+                                        {
+                                            "start": "0500",
+                                            "end": "2100"
+                                        }
+                                    ]
+                                },
+                                "apply": true
+                            },
+                            "car": {
+                                "apply": true
+                            }
+                        },
+                        "order": "last"
+                    },
+                    "bike": {
+                        "class": {
+                            "4T": {
+                                "apply": true
+                            },
+                            "2T": {
+                                "apply": true
+                            }
+                        },
+                        "order": "first"
+                    },
+                    "model": {
+                        "2019": [
+                            {
+                                "start": "0500",
+                                "end": "1000"
+                            },
+                            {
+                                "start": "1600",
+                                "end": "2000"
+                            }
+                        ],
+                        "1996": [
+                            {
+                                "start": "0500",
+                                "end": ""
+                            },
+                            {
+                                "start": "",
+                                "end": "2100"
+                            }
+                        ]
+                    }
+                }
             }
         ]
     }

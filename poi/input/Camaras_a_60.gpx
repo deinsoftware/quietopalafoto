@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Manual" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="6.222746958956122" lon="-75.591944977641106">
+    <name>Aeroparque por La 19</name>
+    <cmt>Direccion: Carrera 70 x Calle 19 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 70 x Calle 19 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.32550397887826" lon="-75.557689983397722">
+    <name>Autopista Norte por Fabricato</name>
+    <cmt>Direccion: Autopista Norte x Fabricato - Municipio: Bello</cmt>
+    <desc>Direccion: Autopista Norte x Fabricato - Municipio: Bello</desc>
+  </wpt>
+
+  <wpt lat="6.327744964510202" lon="-75.557975973933935">
+    <name>Autopista Norte por Postobon</name>
+    <cmt>Direccion: Autopista Norte x Calle 40 - Municipio: Bello</cmt>
+    <desc>Direccion: Autopista Norte x Calle 40 - Municipio: Bello</desc>
+  </wpt>
+
+  <wpt lat="6.168158976361156" lon="-75.606552958488464">
+    <name>Autopista Sur por Colanta</name>
+    <cmt>Direccion: Autopista Sur x Calle 51 - Municipio: Itagui</cmt>
+    <desc>Direccion: Autopista Sur x Calle 51 - Municipio: Itagui</desc>
+  </wpt>
+
+  <wpt lat="6.16808395832777" lon="-75.606523035094142">
+    <name>Autopista Sur por Colanta</name>
+    <cmt>Direccion: Autopista Sur x Calle 51 - Municipio: Itagui</cmt>
+    <desc>Direccion: Autopista Sur x Calle 51 - Municipio: Itagui</desc>
+  </wpt>
+
+  <wpt lat="6.238540979102254" lon="-75.59042802080512">
+    <name>Av Bolivariana por Rompoy de Bulerias</name>
+    <cmt>Direccion: Diagonal 74B x Call 32F - Municipio: Medellin</cmt>
+    <desc>Direccion: Diagonal 74B x Call 32F - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.231475034728646" lon="-75.569989001378417">
+    <name>Av Poblado por Hyundai</name>
+    <cmt>Direccion: Carrera 43A x Calle 31 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 43A x Calle 31 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.209714021533728" lon="-75.570706995204091">
+    <name>Av Poblado por Parque del Poblado</name>
+    <cmt>Direccion: Av El Poblado x Calle 9 - Municipio: Medellin</cmt>
+    <desc>Direccion: Av El Poblado x Calle 9 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.261163987219334" lon="-75.564284026622772">
+    <name>Bolivar por Hospital San Vicente de Paul</name>
+    <cmt>Direccion: Carrera 51 x Calle 64 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 51 x Calle 64 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.244930000975728" lon="-75.570731973275542">
+    <name>Bolivar por San Juan</name>
+    <cmt>Direccion: Carrera 51 x Calle 44 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 51 x Calle 44 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.228903969749808" lon="-75.571159031242132">
+    <name>Calle 29 por Premium Plaza</name>
+    <cmt>Direccion: Calle 29 x Carrera 43G - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 29 x Carrera 43G - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.261618034914136" lon="-75.556491035968065">
+    <name>Calle 66 por Bomba Palos Verdes</name>
+    <cmt>Direccion: Calle 66 x Carrera 45 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 66 x Carrera 45 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.282165013253689" lon="-75.572389997541904">
+    <name>Calle 89 despues de Colegio Dinamarca</name>
+    <cmt>Direccion: Calle 89 x Carrera 65 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 89 x Carrera 65 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.207456020638347" lon="-75.589199988171458">
+    <name>Campos de Paz</name>
+    <cmt>Direccion: Calle 4 x Carrera 65 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 4 x Carrera 65 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.256084972992539" lon="-75.580843985080719">
+    <name>Colombia por Los Sauces</name>
+    <cmt>Direccion: Calle 50 x Carrera 65 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 50 x Carrera 65 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.2561060115695" lon="-75.581213962286711">
+    <name>Colombia por Motomarina</name>
+    <cmt>Direccion: Calle 50 x Carrera 65 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 50 x Carrera 65 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.251448020339012" lon="-75.571882976219058">
+    <name>Colombia por Tenerife</name>
+    <cmt>Direccion: Calle 50 x Carrera 55 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 50 x Carrera 55 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.255305958911777" lon="-75.562728010118008">
+    <name>Ecuador por Turantioquia</name>
+    <cmt>Direccion: Carrera 48 x Calle 58 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 48 x Calle 58 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.244811983779073" lon="-75.56636500172317">
+    <name>El Palo por El Huevo</name>
+    <cmt>Direccion: Carrera 45 x Calle 45 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 45 x Calle 45 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.253339983522892" lon="-75.587819991633296">
+    <name>Estacion Estadio del Metro</name>
+    <cmt>Direccion: Carrera 70 x Calle 47D - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 70 x Calle 47D - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.238438971340656" lon="-75.573363974690437">
+    <name>Estacion Exposiciones del Metro</name>
+    <cmt>Direccion: Calle 37 x Carrera 51 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 37 x Carrera 51 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.196469021961093" lon="-75.585235012695193">
+    <name>FLA</name>
+    <cmt>Direccion: Carrera 50FF x Calle 12S - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 50FF x Calle 12S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.206896025687456" lon="-75.586139000952244">
+    <name>Guatabal por Parque Cristo Rey</name>
+    <cmt>Direccion: Carrera 52 x Calle 2S - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 52 x Calle 2S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.197507036849856" lon="-75.589839024469256">
+    <name>Guayabal entre Terpel y Texaco</name>
+    <cmt>Direccion: Carrera 52 x Calle 12S - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 52 x Calle 12S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.22011998668313" lon="-75.580175025388598">
+    <name>Guayabal por CEOH</name>
+    <cmt>Direccion: Carrera 52 x Calle 17 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 52 x Calle 17 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.192028960213065" lon="-75.592695996165276">
+    <name>Guayabal por Las Chimeneas</name>
+    <cmt>Direccion: Carrera 52D x Calle 85 - Municipio: Itagui</cmt>
+    <desc>Direccion: Carrera 52D x Calle 85 - Municipio: Itagui</desc>
+  </wpt>
+
+  <wpt lat="6.20658396743238" lon="-75.586131038144231">
+    <name>Guayabal por Parque Cristo Rey</name>
+    <cmt>Direccion: Carrera 52 x Calle 2S - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 52 x Calle 2S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.222612010315061" lon="-75.579612012952566">
+    <name>Guayabal por Zoologico</name>
+    <cmt>Direccion: Carrera 52 x Calle 21 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 52 x Calle 21 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.186008993536234" lon="-75.569909038022161">
+    <name>Inferior por Mall Campestre</name>
+    <cmt>Direccion: Carrera 34 x Calle 16AS - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 34 x Calle 16AS - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.209177998825908" lon="-75.559282964095473">
+    <name>Inferior por Pinar del Rio</name>
+    <cmt>Direccion: Carrera 30 x Calle 10 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 30 x Calle 10 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.209593992680311" lon="-75.565607026219368">
+    <name>La 10 por Diez Hotel</name>
+    <cmt>Direccion: Calle 10A x Carrera 36 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 10A x Carrera 36 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.21246999129653" lon="-75.574618997052312">
+    <name>La 10 por Exito del Poblado</name>
+    <cmt>Direccion: Calle 10 x Exito Poblado - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 10 x Exito Poblado - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.212403019890189" lon="-75.574664007872343">
+    <name>La 10 por Exito del Poblado1</name>
+    <cmt>Direccion: Calle 10 x Exito Poblado - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 10 x Exito Poblado - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.209731036797166" lon="-75.568158980458975">
+    <name>La 10 por Mondongos</name>
+    <cmt>Direccion: Calle 10 x Carrera 40 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 10 x Carrera 40 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.213293010368943" lon="-75.576823018491268">
+    <name>La 10 por Politecnico JIC</name>
+    <cmt>Direccion: Calle 10 x Politecnico JIC - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 10 x Politecnico JIC - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.213189996778965" lon="-75.576880015432835">
+    <name>La 10 por Politecnico JIC1</name>
+    <cmt>Direccion: Calle 10 x Politecnico JIC - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 10 x Politecnico JIC - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.231823973357678" lon="-75.587150026112795">
+    <name>La 30 por Pista de Bicicross</name>
+    <cmt>Direccion: Calle 30 x Carrera 66B - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 30 x Carrera 66B - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.23891900293529" lon="-75.596923995763063">
+    <name>La 33 por Los Almendros</name>
+    <cmt>Direccion: Calle 33 x Carrera 76 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 33 x Carrera 76 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.244215024635196" lon="-75.606550024822354">
+    <name>La 35 por Simon Bolivar</name>
+    <cmt>Direccion: Calle 35 x Carrera 84 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 35 x Carrera 84 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.226533986628056" lon="-75.583549998700619">
+    <name>La 65 por Barrio Antioquia</name>
+    <cmt>Direccion: Carrera 65 x Calle 25 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 65 x Calle 25 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.276745023205876" lon="-75.573352994397283">
+    <name>La 65 por Cementerio Universal</name>
+    <cmt>Direccion: Carrera 65 x Calle 80 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 65 x Calle 80 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.288259997963905" lon="-75.570441959425807">
+    <name>La 65 por Parque Juanes</name>
+    <cmt>Direccion: Carrera 65 x Calle 94 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 65 x Calle 94 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.301329983398318" lon="-75.566211026161909">
+    <name>La 65 por Sena Pedregal</name>
+    <cmt>Direccion: Carrera 65 x Calle 104 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 65 x Calle 104 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.231221985071898" lon="-75.596210025250912">
+    <name>La 76 por Exito de Belen</name>
+    <cmt>Direccion: Carrera 76 x Calle 30 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 76 x Calle 30 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.243679001927376" lon="-75.602818988263607">
+    <name>La 80 por Don Quijote</name>
+    <cmt>Direccion: Calle 81 x Carrera 35 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 81 x Carrera 35 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.277540968731046" lon="-75.589291015639901">
+    <name>La 80 por Doña Maria</name>
+    <cmt>Direccion: Carrera 80 x Calle 76 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 80 x Calle 76 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.218977030366659" lon="-75.599224995821714">
+    <name>La 80 por Mall Gran Via</name>
+    <cmt>Direccion: Diagonal 75B x Carrera 76 - Municipio: Medellin</cmt>
+    <desc>Direccion: Diagonal 75B x Carrera 76 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.269303988665342" lon="-75.595331015065312">
+    <name>La 80 por Mall Mediterraneo</name>
+    <cmt>Direccion: Carrera 80 x Calle 55 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 80 x Calle 55 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.239214967936277" lon="-75.5732830055058">
+    <name>La bayadera por Carabobo</name>
+    <cmt>Direccion: Calle 38 x Carrera 52 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 38 x Carrera 52 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.259869989007711" lon="-75.582731002941728">
+    <name>La Iguana por Luis Amigo</name>
+    <cmt>Direccion: Calle 54 x Carrera 57B - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 54 x Carrera 57B - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.240984974429011" lon="-75.569660011678934">
+    <name>La Oriental por Los Huesos</name>
+    <cmt>Direccion: Carrera 46 x Calle 41 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 46 x Calle 41 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.314113978296518" lon="-75.562316961586475">
+    <name>Las Cabañas por Carrera 57A</name>
+    <cmt>Direccion: Calle 24A x Carrera 57A - Municipio: Bello</cmt>
+    <desc>Direccion: Calle 24A x Carrera 57A - Municipio: Bello</desc>
+  </wpt>
+
+  <wpt lat="6.314005013555288" lon="-75.563572989776731">
+    <name>Las Cabañas por Carrera 58</name>
+    <cmt>Direccion: Calle 24A x Carrera 58 - Municipio: Bello</cmt>
+    <desc>Direccion: Calle 24A x Carrera 58 - Municipio: Bello</desc>
+  </wpt>
+
+  <wpt lat="6.216332959011197" lon="-75.552838034927845">
+    <name>Las Palmas por Chuscalito</name>
+    <cmt>Direccion: Las Palmas (Bajando) x El Chuscalito - Municipio: Medellin</cmt>
+    <desc>Direccion: Las Palmas (Bajando) x El Chuscalito - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.216099020093679" lon="-75.552741978317499">
+    <name>Las Palmas por Chuscalito1</name>
+    <cmt>Direccion: Las Palmas (Subiendo) x El Chuscalito - Municipio: Medellin</cmt>
+    <desc>Direccion: Las Palmas (Subiendo) x El Chuscalito - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.222542021423578" lon="-75.565177034586668">
+    <name>Las Palmas por Discoteca Cañahuate</name>
+    <cmt>Direccion: Las Palmas (Bajando) x Discoteca Cañahuate - Municipio: Medellin</cmt>
+    <desc>Direccion: Las Palmas (Bajando) x Discoteca Cañahuate - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.222875034436584" lon="-75.565209975466132">
+    <name>Las Palmas por Dulce Jesus Mio</name>
+    <cmt>Direccion: Las Palmas (Subiendo) x Dulce Jesus Mio - Municipio: Medellin</cmt>
+    <desc>Direccion: Las Palmas (Subiendo) x Dulce Jesus Mio - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.218044040724635" lon="-75.575820039957762">
+    <name>Las Vegas por ESSO</name>
+    <cmt>Direccion: Carrera 48 x Calle 17 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 48 x Calle 17 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.157879997044802" lon="-75.609497018158436">
+    <name>Las Vegas por Unidad Deportiva Sabaneta</name>
+    <cmt>Direccion: Carrera 48 x Calle 60S - Municipio: Sabaneta</cmt>
+    <desc>Direccion: Carrera 48 x Calle 60S - Municipio: Sabaneta</desc>
+  </wpt>
+
+  <wpt lat="6.157629964873195" lon="-75.609641019254923">
+    <name>Las Vegas por Unidad Deportiva Sabaneta1</name>
+    <cmt>Direccion: Carrera 48 x Calle 60S - Municipio: Sabaneta</cmt>
+    <desc>Direccion: Carrera 48 x Calle 60S - Municipio: Sabaneta</desc>
+  </wpt>
+
+  <wpt lat="6.253194976598024" lon="-75.5623450409621">
+    <name>Oriental por Argentina</name>
+    <cmt>Direccion: Carrera 46 x Calle 57 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 46 x Calle 57 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.258073998615146" lon="-75.572228981181979">
+    <name>Plaza Minorista</name>
+    <cmt>Direccion: Desvio Calle 58 x Carrera 57 - Municipio: Medellin</cmt>
+    <desc>Direccion: Desvio Calle 58 x Carrera 57 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.249209968373179" lon="-75.588969988748431">
+    <name>San Juan por Exito de la 70</name>
+    <cmt>Direccion: Calle 44 x Carrera 70 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 44 x Carrera 70 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.250080009922385" lon="-75.597085012122989">
+    <name>San Juan por La 78</name>
+    <cmt>Direccion: Calle 44 x Carrera 78 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 44 x Carrera 78 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.245540035888553" lon="-75.572589989751577">
+    <name>San Juan x Parque de Las Luces</name>
+    <cmt>Direccion: Calle 44 x Carrera 53 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 44 x Carrera 53 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.245468035340309" lon="-75.572626031935215">
+    <name>San Juan x Parque de Las Luces1</name>
+    <cmt>Direccion: Calle 44 x Carrera 53 - Municipio: Medellin</cmt>
+    <desc>Direccion: Calle 44 x Carrera 53 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.189723014831543" lon="-75.560917016118765">
+    <name>Superior por ISA</name>
+    <cmt>Direccion: Carrera 25 x Calle 9BS - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 25 x Calle 9BS - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.250570015981793" lon="-75.572570040822029">
+    <name>Tenerife por Ayacucho</name>
+    <cmt>Direccion: Carrera 55 x Calle 49 - Municipio: Medellin</cmt>
+    <desc>Direccion: Carrera 55 x Calle 49 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.297470033168793" lon="-75.654350006952882">
+    <name>Tunel de Occidente hacia Antioquia (13 camaras, 1 cada 100 mts)</name>
+    <cmt>Direccion: Tunel de Occidente - Municipio: Medellin</cmt>
+    <desc>Direccion: Tunel de Occidente - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.32400001399219" lon="-75.686919987201691">
+    <name>Tunel de Occidente hacia Medellin (13 camaras, 1 cada 100 mts)</name>
+    <cmt>Direccion: Tunel de Occidente - Municipio: Medellin</cmt>
+    <desc>Direccion: Tunel de Occidente - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.279077958315611" lon="-75.64491399563849">
+    <name>Via Tunel de Occidente por San Cristobal</name>
+    <cmt>Direccion: Via Tunel de Occidente x San Cristobal - Municipio: Medellin</cmt>
+    <desc>Direccion: Via Tunel de Occidente x San Cristobal - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.279063038527966" lon="-75.644776029512286">
+    <name>Via Tunel de Occidente por San Cristobal1</name>
+    <cmt>Direccion: Via Tunel de Occidente x San Cristobal - Municipio: Medellin</cmt>
+    <desc>Direccion: Via Tunel de Occidente x San Cristobal - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.154099420668364" lon="-75.628876295793533">
+    <name>Autopista Sur por Motel Unicornio</name>
+    <cmt>Direccion: Autopista Sur x Motel Unicornio - Municipio: La Estrella</cmt>
+    <desc>Direccion: Autopista Sur x Motel Unicornio - Municipio: La Estrella</desc>
+  </wpt>
+
+  <wpt lat="6.154017420668364" lon="-75.628823295793533">
+    <name>Autopista Sur por Motel Unicornio</name>
+    <cmt>Direccion: Autopista Sur x Motel Unicornio - Municipio: La Estrella</cmt>
+    <desc>Direccion: Autopista Sur x Motel Unicornio - Municipio: La Estrella</desc>
+  </wpt>
+
+  <wpt lat="6.152316704757929" lon="-75.633841998374939">
+    <name>Autopista Sur por Racatam</name>
+    <cmt>Direccion: Autopista Sur x Racatam - Municipio: La Estrella</cmt>
+    <desc>Direccion: Autopista Sur x Racatam - Municipio: La Estrella</desc>
+  </wpt>
+
+</gpx>

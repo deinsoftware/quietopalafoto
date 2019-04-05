@@ -1,0 +1,2321 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<Placemark>
+			<name>La 80 por Mall Mediterraneo</name>
+			<description><![CDATA[Direccion: Carrera 80 x Calle 55<br>Latitud: 6.269304<br>Longitud: -75.595331<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 80 x Calle 55</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.269304</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.595331</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.595331,6.269304,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Juan por Exito de la 70</name>
+			<description><![CDATA[Direccion: Calle 44 x Carrera 70<br>Latitud: 6.249210<br>Longitud: -75.588970<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 44 x Carrera 70</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.249210</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.588970</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.58897,6.24921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 29 por Premium Plaza</name>
+			<description><![CDATA[Direccion: Calle 29 x Carrera 43G<br>Latitud: 6.228904<br>Longitud: -75.571159<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 29 x Carrera 43G</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.228904</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.571159</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.571159,6.228904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Av Bolivariana por Rompoy de Bulerias</name>
+			<description><![CDATA[Direccion: Diagonal 74B x Call 32F<br>Latitud: 6.238541<br>Longitud: -75.590428<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Diagonal 74B x Call 32F</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.238541</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.590428</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.590428,6.238541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 10 por Politecnico JIC</name>
+			<description><![CDATA[Direccion: Calle 10 x Politecnico JIC<br>Latitud: 6.213293<br>Longitud: -75.576823<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 10 x Politecnico JIC</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.213293</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.576823</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.576823,6.213293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 10 por Politecnico JIC</name>
+			<description><![CDATA[Direccion: Calle 10 x Politecnico JIC<br>Latitud: 6.213190<br>Longitud: -75.576880<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 10 x Politecnico JIC</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.213190</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.576880</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57688000000002,6.21319,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 10 por Exito del Poblado</name>
+			<description><![CDATA[Direccion: Calle 10 x Exito Poblado<br>Latitud: 6.2124703<br>Longitud: -75.5746191<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 10 x Exito Poblado</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2124703</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5746191</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.574619,6.21247,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 10 por Exito del Poblado</name>
+			<description><![CDATA[Direccion: Calle 10 x Exito Poblado<br>Latitud: 6.2124033<br>Longitud: -75.5746637<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 10 x Exito Poblado</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2124033</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5746637</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.574664,6.212403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Av Poblado por Parque del Poblado</name>
+			<description><![CDATA[Direccion: Av El Poblado x Calle 9<br>Latitud: 6.2097143<br>Longitud: -75.5707074<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Av El Poblado x Calle 9</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2097143</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5707074</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.570707,6.209714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Palmas por Discoteca Cañahuate</name>
+			<description><![CDATA[Direccion: Las Palmas (Bajando) x Discoteca Cañahuate<br>Latitud: 6.222542<br>Longitud: -75.5651772<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Las Palmas (Bajando) x Discoteca Cañahuate</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.222542</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5651772</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.565177,6.222542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estacion Estadio del Metro</name>
+			<description><![CDATA[Direccion: Carrera 70 x Calle 47D<br>Latitud: 6.253340<br>Longitud: -75.587820<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 70 x Calle 47D</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.253340</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.587820</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.58782,6.25334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guatabal por Parque Cristo Rey</name>
+			<description><![CDATA[Direccion: Carrera 52 x Calle 2S<br>Latitud: 6.206896<br>Longitud: -75.586139<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 52 x Calle 2S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.206896</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.586139</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.586139,6.206896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayabal por Parque Cristo Rey</name>
+			<description><![CDATA[Direccion: Carrera 52 x Calle 2S<br>Latitud: 6.206584<br>Longitud: -75.586131<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 52 x Calle 2S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.206584</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.586131</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.586131,6.206584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayabal entre Terpel y Texaco</name>
+			<description><![CDATA[Direccion: Carrera 52 x Calle 12S<br>Latitud: 6.1975073<br>Longitud: -75.5898392<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 52 x Calle 12S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.1975073</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5898392</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.58983900000001,6.197507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Av Poblado por Hyundai</name>
+			<description><![CDATA[Direccion: Carrera 43A x Calle 31<br>Latitud: 6.231475<br>Longitud: -75.569989<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 43A x Calle 31</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.231475</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.569989</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.56998900000002,6.231475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Palo por El Huevo</name>
+			<description><![CDATA[Direccion: Carrera 45 x Calle 45<br>Latitud: 6.244812<br>Longitud: -75.566365<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 45 x Calle 45</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.244812</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.566365</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.566365,6.244812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 65 por Cementerio Universal</name>
+			<description><![CDATA[Direccion: Carrera 65 x Calle 80<br>Latitud: 6.276745<br>Longitud: -75.573353<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 65 x Calle 80</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.276745</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.573353</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.573353,6.276745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 33 por Los Almendros</name>
+			<description><![CDATA[Direccion: Calle 33 x Carrera 76<br>Latitud: 6.238919<br>Longitud: -75.596924<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 33 x Carrera 76</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.238919</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.596924</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.596924,6.238919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inferior por Pinar del Rio</name>
+			<description><![CDATA[Direccion: Carrera 30 x Calle 10<br>Latitud: 6.209178<br>Longitud: -75.559283<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 30 x Calle 10</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.209178</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.559283</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.559283,6.209178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oriental por Argentina</name>
+			<description><![CDATA[Direccion: Carrera 46 x Calle 57<br>Latitud: 6.253195<br>Longitud: -75.562345<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 46 x Calle 57</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.253195</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.562345</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.562345,6.253195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ecuador por Turantioquia</name>
+			<description><![CDATA[Direccion: Carrera 48 x Calle 58<br>Latitud: 6.255306<br>Longitud: -75.562728<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 48 x Calle 58</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.255306</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.562728</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.562728,6.255306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La bayadera por Carabobo</name>
+			<description><![CDATA[Direccion: Calle 38 x Carrera 52<br>Latitud: 6.2392153<br>Longitud: -75.5732831<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 38 x Carrera 52</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2392153</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5732831</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57328300000002,6.239215000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 35 por Simon Bolivar</name>
+			<description><![CDATA[Direccion: Calle 35 x Carrera 84<br>Latitud: 6.244215<br>Longitud: -75.606550<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 35 x Carrera 84</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.244215</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.606550</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.60655,6.244215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Juan x Parque de Las Luces</name>
+			<description><![CDATA[Direccion: Calle 44 x Carrera 53<br>Latitud: 6.245540<br>Longitud: -75.572590<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 44 x Carrera 53</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.245540</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.572590</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57259,6.245540000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Juan x Parque de Las Luces</name>
+			<description><![CDATA[Direccion: Calle 44 x Carrera 53<br>Latitud: 6.245468<br>Longitud: -75.572626<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 44 x Carrera 53</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.245468</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.572626</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.572626,6.245468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Palmas por Dulce Jesus Mio</name>
+			<description><![CDATA[Direccion: Las Palmas (Subiendo) x Dulce Jesus Mio<br>Latitud: 6.2228747<br>Longitud: -75.5652105<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Las Palmas (Subiendo) x Dulce Jesus Mio</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2228747</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5652105</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.56521,6.222875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inferior por Mall Campestre</name>
+			<description><![CDATA[Direccion: Carrera 34 x Calle 16AS<br>Latitud: 6.186009<br>Longitud: -75.569909<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 34 x Calle 16AS</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.186009</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.569909</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.56990900000001,6.186009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Minorista</name>
+			<description><![CDATA[Direccion: Desvio Calle 58 x Carrera 57<br>Latitud: 6.258074<br>Longitud: -75.572229<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Desvio Calle 58 x Carrera 57</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.258074</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.572229</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.572229,6.258074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FLA</name>
+			<description><![CDATA[Direccion: Carrera 50FF x Calle 12S<br>Latitud: 6.1964693<br>Longitud: -75.5852347<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 50FF x Calle 12S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.1964693</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5852347</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.585235,6.196469,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bolivar por Hospital San Vicente de Paul</name>
+			<description><![CDATA[Direccion: Carrera 51 x Calle 64<br>Latitud: 6.261164<br>Longitud: -75.564284<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 51 x Calle 64</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.261164</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.564284</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.564284,6.261164000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colombia por Los Sauces</name>
+			<description><![CDATA[Direccion: Calle 50 x Carrera 65<br>Latitud: 6.256085<br>Longitud: -75.580844<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 50 x Carrera 65</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.256085</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.580844</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.580844,6.256085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colombia por Motomarina</name>
+			<description><![CDATA[Direccion: Calle 50 x Carrera 65<br>Latitud: 6.256106<br>Longitud: -75.581214<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 50 x Carrera 65</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.256106</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.581214</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.58121400000002,6.256106000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Vegas por ESSO</name>
+			<description><![CDATA[Direccion: Carrera 48 x Calle 17<br>Latitud: 6.2180443<br>Longitud: -75.5758204<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 48 x Calle 17</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2180443</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5758204</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57582,6.218044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estacion Exposiciones del Metro</name>
+			<description><![CDATA[Direccion: Calle 37 x Carrera 51<br>Latitud: 6.2384393<br>Longitud: -75.5733636<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 37 x Carrera 51</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2384393</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5733636</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.573364,6.238439,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 65 por Barrio Antioquia</name>
+			<description><![CDATA[Direccion: Carrera 65 x Calle 25<br>Latitud: 6.2265339<br>Longitud: -75.5835503<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 65 x Calle 25</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2265339</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5835503</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.58355000000002,6.226534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 80 por Mall Gran Via</name>
+			<description><![CDATA[Direccion: Diagonal 75B x Carrera 76<br>Latitud: 6.218977<br>Longitud: -75.599225<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Diagonal 75B x Carrera 76</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.218977</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.599225</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.599225,6.218977000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Campos de Paz</name>
+			<description><![CDATA[Direccion: Calle 4 x Carrera 65<br>Latitud: 6.2074557<br>Longitud: -75.5891995<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 4 x Carrera 65</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2074557</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5891995</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5892,6.207456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 65 por Sena Pedregal</name>
+			<description><![CDATA[Direccion: Carrera 65 x Calle 104<br>Latitud: 6.30133<br>Longitud: -75.5662107<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 65 x Calle 104</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.30133</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5662107</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.566211,6.30133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tenerife por Ayacucho</name>
+			<description><![CDATA[Direccion: Carrera 55 x Calle 49<br>Latitud: 6.250570<br>Longitud: -75.572570<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 55 x Calle 49</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.250570</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.572570</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57257,6.25057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colombia por Tenerife</name>
+			<description><![CDATA[Direccion: Calle 50 x Carrera 55<br>Latitud: 6.251448<br>Longitud: -75.571883<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 50 x Carrera 55</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.251448</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.571883</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.571883,6.251448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Oriental por Los Huesos</name>
+			<description><![CDATA[Direccion: Carrera 46 x Calle 41<br>Latitud: 6.2409847<br>Longitud: -75.5696604<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 46 x Calle 41</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2409847</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5696604</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.56966,6.240985,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 30 por Pista de Bicicross</name>
+			<description><![CDATA[Direccion: Calle 30 x Carrera 66B<br>Latitud: 6.231824<br>Longitud: -75.587150<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 30 x Carrera 66B</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.231824</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.587150</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.58715,6.231824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 76 por Exito de Belen</name>
+			<description><![CDATA[Direccion: Carrera 76 x Calle 30<br>Latitud: 6.231222<br>Longitud: -75.596210<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 76 x Calle 30</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.231222</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.596210</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.59621,6.231222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 10 por Diez Hotel</name>
+			<description><![CDATA[Direccion: Calle 10A x Carrera 36<br>Latitud: 6.209594<br>Longitud: -75.5656067<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 10A x Carrera 36</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.209594</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5656067</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.565607,6.209594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Juan por La 78</name>
+			<description><![CDATA[Direccion: Calle 44 x Carrera 78<br>Latitud: 6.250080<br>Longitud: -75.597085<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 44 x Carrera 78</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.250080</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.597085</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.597085,6.25008,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Superior por ISA</name>
+			<description><![CDATA[Direccion: Carrera 25 x Calle 9BS<br>Latitud: 6.189723<br>Longitud: -75.560917<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 25 x Calle 9BS</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.189723</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.560917</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.560917,6.189723,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 80 por Don Quijote</name>
+			<description><![CDATA[Direccion: Calle 81 x Carrera 35<br>Latitud: 6.243679<br>Longitud: -75.602819<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 81 x Carrera 35</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.243679</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.602819</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.602819,6.243679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 10 por Mondongos</name>
+			<description><![CDATA[Direccion: Calle 10 x Carrera 40<br>Latitud: 6.2097313<br>Longitud: -75.5681586<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 10 x Carrera 40</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2097313</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5681586</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.568159,6.209731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayabal por Zoologico</name>
+			<description><![CDATA[Direccion: Carrera 52 x Calle 21<br>Latitud: 6.2226117<br>Longitud: -75.5796124<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 52 x Calle 21</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2226117</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5796124</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.579612,6.222612,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Palmas por Chuscalito</name>
+			<description><![CDATA[Direccion: Las Palmas (Bajando) x El Chuscalito<br>Latitud: 6.2163333<br>Longitud: -75.5528382<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Las Palmas (Bajando) x El Chuscalito</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2163333</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5528382</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.552838,6.216333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Palmas por Chuscalito</name>
+			<description><![CDATA[Direccion: Las Palmas (Subiendo) x El Chuscalito<br>Latitud: 6.2160987<br>Longitud: -75.5527421<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Las Palmas (Subiendo) x El Chuscalito</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2160987</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5527421</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.552742,6.216099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bolivar por San Juan</name>
+			<description><![CDATA[Direccion: Carrera 51 x Calle 44<br>Latitud: 6.244930<br>Longitud: -75.570732<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 51 x Calle 44</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.244930</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.570732</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.570732,6.24493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 65 por Parque Juanes</name>
+			<description><![CDATA[Direccion: Carrera 65 x Calle 94<br>Latitud: 6.288260<br>Longitud: -75.570442<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 65 x Calle 94</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.288260</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.570442</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.570442,6.28826,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tunel de Occidente hacia Antioquia (13 camaras, 1 cada 100 mts)</name>
+			<description><![CDATA[Direccion: Tunel de Occidente<br>Latitud: 6.297470<br>Longitud: -75.654350<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Tunel de Occidente</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.297470</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.654350</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.65435000000001,6.297470000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tunel de Occidente hacia Medellin (13 camaras, 1 cada 100 mts)</name>
+			<description><![CDATA[Direccion: Tunel de Occidente<br>Latitud: 6.324000<br>Longitud: -75.686920<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Tunel de Occidente</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.324000</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.686920</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.68692,6.324,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 89 despues de Colegio Dinamarca</name>
+			<description><![CDATA[Direccion: Calle 89 x Carrera 65<br>Latitud: 6.282165<br>Longitud: -75.572390<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 89 x Carrera 65</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.282165</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.572390</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57239,6.282165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aeroparque por La 19</name>
+			<description><![CDATA[Direccion: Carrera 70 x Calle 19<br>Latitud: 6.222747<br>Longitud: -75.591945<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 70 x Calle 19</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.222747</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.591945</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.591945,6.222747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Iguana por Luis Amigo</name>
+			<description><![CDATA[Direccion: Calle 54 x Carrera 57B<br>Latitud: 6.2598703<br>Longitud: -75.5827307<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 54 x Carrera 57B</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2598703</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5827307</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.582731,6.25987,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La 80 por Doña Maria</name>
+			<description><![CDATA[Direccion: Carrera 80 x Calle 76<br>Latitud: 6.2775406<br>Longitud: -75.5892909<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 80 x Calle 76</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2775406</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5892909</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.589291,6.277541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayabal por CEOH</name>
+			<description><![CDATA[Direccion: Carrera 52 x Calle 17<br>Latitud: 6.22012<br>Longitud: -75.580175<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 52 x Calle 17</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.22012</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.580175</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.580175,6.2201200000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Via Tunel de Occidente por San Cristobal</name>
+			<description><![CDATA[Direccion: Via Tunel de Occidente x San Cristobal<br>Latitud: 6.2790777<br>Longitud: -75.6449135<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Via Tunel de Occidente x San Cristobal</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2790777</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.6449135</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.644914,6.279078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Via Tunel de Occidente por San Cristobal</name>
+			<description><![CDATA[Direccion: Via Tunel de Occidente x San Cristobal<br>Latitud: 6.2790633<br>Longitud: -75.6447759<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Via Tunel de Occidente x San Cristobal</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.2790633</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.6447759</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.644776,6.279063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 66 por Bomba Palos Verdes</name>
+			<description><![CDATA[Direccion: Calle 66 x Carrera 45<br>Latitud: 6.261618<br>Longitud: -75.556491<br>Velocidad: 60.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 66 x Carrera 45</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.261618</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.556491</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.556491,6.261618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Vegas por Unidad Deportiva Sabaneta</name>
+			<description><![CDATA[Direccion: Carrera 48 x Calle 60S<br>Latitud: 6.157880<br>Longitud: -75.609497<br>Velocidad: 60.0<br>Municipio: Sabaneta]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 48 x Calle 60S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.157880</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.609497</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Sabaneta</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.609497,6.15788,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Vegas por Unidad Deportiva Sabaneta</name>
+			<description><![CDATA[Direccion: Carrera 48 x Calle 60S<br>Latitud: 6.157630<br>Longitud: -75.609641<br>Velocidad: 60.0<br>Municipio: Sabaneta]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 48 x Calle 60S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.157630</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.609641</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Sabaneta</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.609641,6.157630000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Norte por Postobon</name>
+			<description><![CDATA[Direccion: Autopista Norte x Calle 40<br>Latitud: 6.327745<br>Longitud: -75.557976<br>Velocidad: 60.0<br>Municipio: Bello]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Norte x Calle 40</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.327745</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.557976</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Bello</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.557976,6.327745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Norte por Fabricato</name>
+			<description><![CDATA[Direccion: Autopista Norte x Fabricato<br>Latitud: 6.325504<br>Longitud: -75.557690<br>Velocidad: 60.0<br>Municipio: Bello]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Norte x Fabricato</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.325504</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.557690</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Bello</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.55769,6.325504,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Cabañas por Carrera 58</name>
+			<description><![CDATA[Direccion: Calle 24A x Carrera 58<br>Latitud: 6.314005<br>Longitud: -75.563573<br>Velocidad: 60.0<br>Municipio: Bello]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 24A x Carrera 58</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.314005</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.563573</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Bello</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.563573,6.314005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Cabañas por Carrera 57A</name>
+			<description><![CDATA[Direccion: Calle 24A x Carrera 57A<br>Latitud: 6.314114<br>Longitud: -75.562317<br>Velocidad: 60.0<br>Municipio: Bello]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Calle 24A x Carrera 57A</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.314114</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.562317</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Bello</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.562317,6.314114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayabal por Las Chimeneas</name>
+			<description><![CDATA[Direccion: Carrera 52D x Calle 85<br>Latitud: 6.192029<br>Longitud: -75.592696<br>Velocidad: 60.0<br>Municipio: Itagui]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Carrera 52D x Calle 85</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.192029</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.592696</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Itagui</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.592696,6.192029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Sur por Colanta</name>
+			<description><![CDATA[Direccion: Autopista Sur x Calle 51<br>Latitud: 6.168159<br>Longitud: -75.606553<br>Velocidad: 60.0<br>Municipio: Itagui]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Calle 51</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.168159</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.606553</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Itagui</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.60655300000002,6.168159,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Sur por Colanta</name>
+			<description><![CDATA[Direccion: Autopista Sur x Calle 51<br>Latitud: 6.168084<br>Longitud: -75.606523<br>Velocidad: 60.0<br>Municipio: Itagui]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Calle 51</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.168084</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.606523</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Itagui</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.606523,6.168084,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Servientrega</name>
+			<description><![CDATA[Direccion: Regional x Calle 17<br>Latitud: 6.220570<br>Longitud: -75.576800<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Calle 17</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.220570</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.576800</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5768,6.22057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Servientrega</name>
+			<description><![CDATA[Direccion: Regional x Calle 17<br>Latitud: 6.220460<br>Longitud: -75.576630<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Calle 17</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.220460</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.576630</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.57663,6.22046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Argos</name>
+			<description><![CDATA[Direccion: Regional x Argos<br>Latitud: 6.220319<br>Longitud: -75.577491<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Argos</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.220319</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.577491</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.577491,6.220319,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Argos</name>
+			<description><![CDATA[Direccion: Regional x Argos<br>Latitud: 6.220289<br>Longitud: -75.577381<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Argos</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.220289</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.577381</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.577381,6.220289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Tugo</name>
+			<description><![CDATA[Direccion: Regional x Calle 17S<br>Latitud: 6.1896767<br>Longitud: -75.5826143<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Calle 17S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.1896767</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5826143</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.582614,6.189677,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista por Carrefour Maxi</name>
+			<description><![CDATA[Direccion: Autopista Sur x Calle 4S<br>Latitud: 6.202440<br>Longitud: -75.580093<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Calle 4S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.202440</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.580093</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.580093,6.20244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista por Carrefour Maxi</name>
+			<description><![CDATA[Direccion: Autopista Sur x Calle 4S<br>Latitud: 6.202549<br>Longitud: -75.579978<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Calle 4S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.202549</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.579978</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.579978,6.202549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por el Transito</name>
+			<description><![CDATA[Direccion: Regional x Calle 72<br>Latitud: 6.269830<br>Longitud: -75.571501<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Calle 72</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.269830</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.571501</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.571501,6.26983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Terminal de Transporte</name>
+			<description><![CDATA[Direccion: Regional x Calle 75B<br>Latitud: 6.274560<br>Longitud: -75.570447<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Calle 75B</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.274560</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.570447</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.570447,6.27456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Tugo</name>
+			<description><![CDATA[Direccion: Regional x Calle 17S<br>Latitud: 6.1897443<br>Longitud: -75.5827219<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Calle 17S</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.1897443</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.5827219</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.582722,6.189744000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estacion Tricentenario del Metro</name>
+			<description><![CDATA[Direccion: Regional x Estacion Tricentenario del Metro<br>Latitud: 6.290230<br>Longitud: -75.565150<br>Velocidad: 80.0<br>Municipio: Medellin]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Estacion Tricentenario del Metro</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.290230</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.565150</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Medellin</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.56515,6.29023,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regional por Sumicol</name>
+			<description><![CDATA[Direccion: Regional x Sumicol<br>Latitud: 6.156187<br>Longitud: -75.619330<br>Velocidad: 80.0<br>Municipio: Sabaneta]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Sumicol</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.156187</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.619330</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Sabaneta</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.61933,6.156187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Patios y talleres del Metro</name>
+			<description><![CDATA[Direccion: Regional x Patios del Metro<br>Latitud: 6.329561<br>Longitud: -75.550833<br>Velocidad: 80.0<br>Municipio: Bello]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Patios del Metro</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.329561</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.550833</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Bello</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.550833,6.329561,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Patios y talleres del Metro</name>
+			<description><![CDATA[Direccion: Regional x Patios del Metro<br>Latitud: 6.329444<br>Longitud: -75.550817<br>Velocidad: 80.0<br>Municipio: Bello]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Regional x Patios del Metro</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.329444</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.550817</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Bello</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.550817,6.329444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Sur por Montesacro</name>
+			<description><![CDATA[Direccion: Autopista Sur x Montesacro<br>Latitud: 6.156002<br>Longitud: -75.623655<br>Velocidad: 80.0<br>Municipio: Itagui]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Montesacro</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.156002</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.623655</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>80.0</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>Itagui</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.623655,6.156002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Sur por Motel Unicornio</name>
+			<description><![CDATA[Direccion: Autopista Sur x Motel Unicornio<br>Latitud: 6.154099<br>Longitud: -75.628876<br>Velocidad: 80<br>Municipio: La Estrella]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Motel Unicornio</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.154099</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.628876</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>La Estrella</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.628876,6.154099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Sur por Motel Unicornio</name>
+			<description><![CDATA[Direccion: Autopista Sur x Motel Unicornio<br>Latitud: 6.154017<br>Longitud: -75.628823<br>Velocidad: 80<br>Municipio: La Estrella]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Motel Unicornio</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.154017</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.628823</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>La Estrella</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.628823,6.154017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autopista Sur por Racatam</name>
+			<description><![CDATA[Direccion: Autopista Sur x Racatam<br>Latitud: 6.152316<br>Longitud: -75.633841<br>Velocidad: 80<br>Municipio: La Estrella]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='Direccion'>
+					<value>Autopista Sur x Racatam</value>
+				</Data>
+				<Data name='Latitud'>
+					<value>6.152316</value>
+				</Data>
+				<Data name='Longitud'>
+					<value>-75.633841</value>
+				</Data>
+				<Data name='Velocidad'>
+					<value>60</value>
+				</Data>
+				<Data name='Municipio'>
+					<value>La Estrella</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.633841,6.152316,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

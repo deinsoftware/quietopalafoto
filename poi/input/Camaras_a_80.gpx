@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Manual" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="6.202440038323402" lon="-75.580092966556549">
+    <name>Autopista por Carrefour Maxi</name>
+    <cmt>Direccion: Autopista Sur x Calle 4S - Municipio: Medellin</cmt>
+    <desc>Direccion: Autopista Sur x Calle 4S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.202549003064632" lon="-75.579977966845036">
+    <name>Autopista por Carrefour Maxi1</name>
+    <cmt>Direccion: Autopista Sur x Calle 4S - Municipio: Medellin</cmt>
+    <desc>Direccion: Autopista Sur x Calle 4S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.156002031639218" lon="-75.623654974624515">
+    <name>Autopista Sur por Montesacro</name>
+    <cmt>Direccion: Autopista Sur x Montesacro - Municipio: Itagui</cmt>
+    <desc>Direccion: Autopista Sur x Montesacro - Municipio: Itagui</desc>
+  </wpt>
+
+  <wpt lat="6.290229996666312" lon="-75.565149961039424">
+    <name>Estacion Tricentenario del Metro</name>
+    <cmt>Direccion: Regional x Estacion Tricentenario del Metro - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Estacion Tricentenario del Metro - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.329560987651348" lon="-75.550832999870181">
+    <name>Patios y talleres del Metro</name>
+    <cmt>Direccion: Regional x Patios del Metro - Municipio: Bello</cmt>
+    <desc>Direccion: Regional x Patios del Metro - Municipio: Bello</desc>
+  </wpt>
+
+  <wpt lat="6.329443976283073" lon="-75.550816990435123">
+    <name>Patios y talleres del Metro1</name>
+    <cmt>Direccion: Regional x Patios del Metro - Municipio: Bello</cmt>
+    <desc>Direccion: Regional x Patios del Metro - Municipio: Bello</desc>
+  </wpt>
+
+  <wpt lat="6.220318973064423" lon="-75.577490972355008">
+    <name>Regional por Argos</name>
+    <cmt>Direccion: Regional x Argos - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Argos - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.220288965851069" lon="-75.577381001785398">
+    <name>Regional por Argos1</name>
+    <cmt>Direccion: Regional x Argos - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Argos - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.269830036908388" lon="-75.571501012891531">
+    <name>Regional por el Transito</name>
+    <cmt>Direccion: Regional x Calle 72 - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Calle 72 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.22057001106441" lon="-75.576799968257546">
+    <name>Regional por Servientrega</name>
+    <cmt>Direccion: Regional x Calle 17 - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Calle 17 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.2204600404948" lon="-75.576629983261228">
+    <name>Regional por Servientrega1</name>
+    <cmt>Direccion: Regional x Calle 17 - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Calle 17 - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.156187020242214" lon="-75.619329996407032">
+    <name>Regional por Sumicol</name>
+    <cmt>Direccion: Regional x Sumicol - Municipio: Sabaneta</cmt>
+    <desc>Direccion: Regional x Sumicol - Municipio: Sabaneta</desc>
+  </wpt>
+
+  <wpt lat="6.27456002868712" lon="-75.57044698856771">
+    <name>Regional por Terminal de Transporte</name>
+    <cmt>Direccion: Regional x Calle 75B - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Calle 75B - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.189676998183131" lon="-75.582613991573453">
+    <name>Regional por Tugo</name>
+    <cmt>Direccion: Regional x Calle 17S - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Calle 17S - Municipio: Medellin</desc>
+  </wpt>
+
+  <wpt lat="6.189743969589472" lon="-75.582722034305334">
+    <name>Regional por Tugo</name>
+    <cmt>Direccion: Regional x Calle 17S - Municipio: Medellin</cmt>
+    <desc>Direccion: Regional x Calle 17S - Municipio: Medellin</desc>
+  </wpt>
+
+</gpx>

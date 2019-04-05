@@ -1,0 +1,67 @@
+{
+    "beautify.config": {
+        "indent_size": 2,
+        "end_with_newline": true,
+        "indent_char": " ",
+        "html": {
+            "wrap_attributes": "force"
+        }
+    },
+    "beautify.ignore": [
+        "**/**.js",
+        "**/**.ts",
+        "**/**.scss",
+        "**/**.json"
+    ],
+    "beautify.language": {
+        "css": ["css", "scss"]
+    },
+    "emmet.includeLanguages": {
+        "javascript": "html",
+        "markdown": "html",
+        "typescript": "html"
+    },
+    "editor.tabSize": 2,
+    "eslint.enable": true,
+    "eslint.options": {
+        "env": {
+            "browser": true,
+            "commonjs": true,
+            "es6": true,
+            "jquery": true
+        },
+        "extends": ["eslint:recommended"],
+        "parserOptions": {
+            "sourceType": "module"
+        },
+        "rules": {
+            "eqeqeq": [
+                "error",
+                "always",
+                {
+                    "null": "ignore"
+                }
+            ],
+            "indent": [{
+                "SwitchCase": 1
+            }],
+            "no-console": "off"
+        }
+    },
+    "eslint.packageManager": "yarn",
+    "files.exclude": {
+        "**/*.js.map": {
+            "when": "$(basename)"
+        }
+    },
+    "javascript.suggest.autoImports": true,
+    "prettier.arrowParens": "always",
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "stylelint.enable": true,
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+}

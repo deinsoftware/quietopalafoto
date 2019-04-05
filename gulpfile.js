@@ -98,7 +98,6 @@ gulp.task('files', function () {
     .pipe(inject.after('</title>', metaTag()))
     .pipe(gulpIf(['js/**/*.js', '!js/**/*.min.js'], uglify()))
     .pipe(gulpIf(['css/**/*.css', '!css/**/*.min.css'], cssnano()))
-    .pipe(gulpIf(['*.html'], minifyHtml()))
     .pipe(gulp.dest('docs'));
 });
 

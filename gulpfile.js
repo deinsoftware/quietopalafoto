@@ -6,7 +6,7 @@ var sass = require('gulp-sass');
 var browserSync = require('browser-sync').create();
 var jshint = require('gulp-jshint');
 
-gulp.task('browserSync', function () {
+gulp.task('browserSync', function() {
   browserSync.init({
     server: {
       baseDir: 'dev',
@@ -14,14 +14,14 @@ gulp.task('browserSync', function () {
   });
 });
 
-gulp.task('jsLint', function () {
+gulp.task('jsLint', function() {
   gulp
     .src(['dev/js/**/*.js', '!dev/js/*.min.js'])
     .pipe(jshint())
     .pipe(jshint.reporter()); // Dump results
 });
 
-gulp.task('sass', function () {
+gulp.task('sass', function() {
   return gulp
     .src('dev/scss/**/*.scss') // Gets all files ending with .scss in app/scss
     .pipe(sass())
@@ -34,7 +34,7 @@ gulp.task('sass', function () {
 });
 
 //Watchers
-gulp.task('watch', ['browserSync'], function () {
+gulp.task('watch', ['browserSync'], function() {
   gulp.watch('dev/scss/**/*.scss', ['sass']);
   gulp.watch('dev/*.html', browserSync.reload);
   gulp.watch('dev/css/**/*.css', browserSync.reload);
@@ -51,7 +51,7 @@ var imagemin = require('gulp-imagemin');
 var cache = require('gulp-cache');
 var del = require('del');
 var inject = require('gulp-inject-string');
-var minifyHtml = require('gulp-minify-html');
+var minifyHtml = require('gulp-htmlmin');
 
 function metaTag() {
   var header = '';
@@ -91,22 +91,22 @@ function metaTag() {
   return header;
 }
 
-gulp.task('files', function () {
+gulp.task('files', function() {
   return gulp
     .src('dev/*.*')
     .pipe(useref())
     .pipe(inject.after('</title>', metaTag()))
     .pipe(gulpIf(['js/**/*.js', '!js/**/*.min.js'], uglify()))
     .pipe(gulpIf(['css/**/*.css', '!css/**/*.min.css'], cssnano()))
-    .pipe(gulpIf(['*.html'], minifyHtml()))
+    .pipe(gulpIf(['*.html'], minifyHtml({ collapseWhitespace: true, removeComments: true })))
     .pipe(gulp.dest('docs'));
 });
 
-gulp.task('data', function () {
+gulp.task('data', function() {
   return gulp.src('dev/data/**/*.json').pipe(gulp.dest('docs/data'));
 });
 
-gulp.task('images', function () {
+gulp.task('images', function() {
   return gulp
     .src('dev/images/**/*.+(png|jpg|jpeg|gif|svg)')
     .pipe(
@@ -119,19 +119,19 @@ gulp.task('images', function () {
     .pipe(gulp.dest('docs/images'));
 });
 
-gulp.task('fonts', function () {
+gulp.task('fonts', function() {
   return gulp.src('dev/fonts/**/*').pipe(gulp.dest('docs/fonts'));
 });
 
-gulp.task('config', function () {
+gulp.task('config', function() {
   return gulp.src('dev/web.config').pipe(gulp.dest('docs/'));
 });
 
-gulp.task('webapp', function () {
+gulp.task('webapp', function() {
   return gulp.src('dev/manifest.json').pipe(gulp.dest('docs/'));
 });
 
-gulp.task('clean', function () {
+gulp.task('clean:docs', function() {
   var delete_paths = [
     'docs/**/*',
     '!docs/images',
@@ -143,7 +143,7 @@ gulp.task('clean', function () {
   return del.sync(delete_paths);
 });
 
-gulp.task('cache:clear', function (callback) {
+gulp.task('cache:clear', function(callback) {
   return cache.clearAll(callback);
 });
 
@@ -151,13 +151,13 @@ gulp.task('cache:clear', function (callback) {
 // Sequences
 // ---------------
 
-gulp.task('run', function (callback) {
+gulp.task('run', function(callback) {
   runSequence(['sass', 'jsLint', 'browserSync', 'watch'], callback);
 });
 
-gulp.task('build', function (callback) {
+gulp.task('build', function(callback) {
   runSequence(
-    'clean',
+    'clean:docs',
     'sass',
     ['files', 'images', 'data', 'fonts', 'config', 'webapp'],
     callback,

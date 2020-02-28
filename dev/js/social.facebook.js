@@ -1,6 +1,6 @@
 var fbURL = 'https://www.facebook.com/';
 var fbPage = 'quietopalafoto';
-var fbAPI = 'https://graph.facebook.com/' + 'v2.7/';
+var fbAPI = 'https://graph.facebook.com/' + 'v2.10/';
 var fbToken = '&access_token=763465203723077|2a943f653712fcce25de89d9247e2654';
 
 var loadFacebook = function() {

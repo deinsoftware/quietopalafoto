@@ -72,12 +72,17 @@ function loadRestrictions() {
         .text(end && ' a ' + end);
 
       var day = restrictions.type.day;
-      if (day.sa) {
+      if (day.weekdays) {
         $('#weekend').removeClass('hidden-xs hidden-sm hidden-md hidden-lg');
+        let weekendTitle = {
+          'sa': 'Sábado',
+          'do': 'Domingo'
+        }[day.weekdays] || 'Sábado y Domingo'
+        $('#weekend > h4').text(weekendTitle);
 
-        var even = day.sa.even.map((date) => convertISOtoDate(date + 'T00:00:00.000-05:00', 'short'));
+        var even = day.date.even.map((date) => convertISOtoDate(date + 'T00:00:00.000-05:00', 'short'));
         $('#all-sa-even').text(even.join(', '));
-        var odd = day.sa.odd.map((date) => convertISOtoDate(date + 'T00:00:00.000-05:00', 'short'));
+        var odd = day.date.odd.map((date) => convertISOtoDate(date + 'T00:00:00.000-05:00', 'short'));
         $('#all-sa-odd').text(odd.join(', '));
       }
     }

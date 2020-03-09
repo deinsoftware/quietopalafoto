@@ -971,7 +971,7 @@
                         "order": "first"
                     },
                     "day": {
-                        "weekdays": "sa",
+                        "weekdays": "all",
                         "date": {
                             "odd": ["2020-03-07"],
                             "even": ["2020-03-08"]

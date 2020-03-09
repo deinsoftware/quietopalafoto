@@ -1,9 +1,9 @@
-var level = '';
-var hash = '';
-var free = '';
+let level = '';
+let hash = '';
+let free = '';
 
-var types = ['vehicle', 'bike'];
-var weekDays = ['mo', 'tu', 'we', 'th', 'fr'];
+const types = ['vehicle', 'bike'];
+const weekDays = ['mo', 'tu', 'we', 'th', 'fr'];
 
 function weekRestriction(type, day) {
   var numbers = restrictions.type[type].day[day];
@@ -11,15 +11,20 @@ function weekRestriction(type, day) {
 }
 
 function setLevel() {
-  $('#level').removeClass('hidden-lg');
-  $('#level-number').text(restrictions.level);
-  $('#level-restrictions').text(free);
-  $('#level')
-    .removeClass('panel-info')
-    .addClass('panel-' + level);
-  $('#level .alert-info')
-    .removeClass('alert-info')
-    .addClass('alert-' + level);
+  if (restrictions.type.day) {
+    $('#level').removeClass('hidden-lg');
+    $('#level-number').text(restrictions.level);
+    $('#level-restrictions').text(free);
+    $('#level')
+      .removeClass('panel-info')
+      .addClass('panel-' + level);
+    $('#level .alert-info')
+      .removeClass('alert-info')
+      .addClass('alert-' + level);
+  }
+}
+
+function setRestrictions() {
   $('#restrictions')
     .removeClass('panel-info')
     .addClass('panel-' + level);
@@ -140,6 +145,7 @@ function loadRestrictions() {
 
     if (restrictions.level > 1) {
       setLevel();
+      setRestrictions();
       setBike();
       setDates();
     }

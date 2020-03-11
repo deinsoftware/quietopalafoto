@@ -91,32 +91,42 @@ function setDates() {
 }
 
 function setHours() {
-  $('#schedule-models').removeClass('hidden-xs hidden-sm hidden-md hidden-lg');
-  var models = restrictions.type.model;
-  for (var key in models) {
+
+  let models = restrictions.type.model;
+  let morning = '';
+  let night = '';
+
+  for (let key in models) {
     if (models.hasOwnProperty(key)) {
-      var morning = models[key][0];
-      var night = models[key][1];
-      var range = '';
+      morning = models[key][0];
+      night = models[key][1];
+
+      let range = '';
       range += getTimeRange(morning);
       range += ' | ';
       range += getTimeRange(night);
+
       if ((key | 0) === convertISOtoYear(Date.now())) {
         $('#schedule').text(range);
       } else {
-        var html = '';
+        let html = '';
         html += '<div>';
         html += $('<span/>', { class: 'visible-xs' })
           .text(' ' + key + ': ' + range)
           .prop('outerHTML');
-        html += $('<span/>', { class: 'hidden-xs' })
-          .text('Modelos ' + key + ' o inferiores ' + range)
-          .prop('outerHTML');
+        if (morning === '0000' && night === '2359') {
+          html += $('<span/>', { class: 'hidden-xs' })
+            .text('Modelos ' + key + ' o inferiores ' + range)
+            .prop('outerHTML');
+        }
         html += '</div>';
         $('#schedule-models > div').append(html);
       }
     }
   }
+
+  $('#schedule-models').removeClass('hidden-xs hidden-sm hidden-md hidden-lg');
+
   var abbr = $('<abbr/>', { title: 'Modelos igual o inferiores' })
     .text('≤')
     .prop('outerHTML');

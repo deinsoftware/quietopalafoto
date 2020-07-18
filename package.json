@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.10",
     "common-tags": "^1.8.0",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
@@ -19,10 +19,10 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-inject-string": "^1.1.2",
     "gulp-jshint": "^2.1.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "gulp-uglify-es": "^2.0.0",
     "gulp-useref": "^4.0.1",
-    "jshint": "^2.11.0",
+    "jshint": "^2.11.1",
     "require-dir": "^1.2.0"
   },
   "dependencies": {}
